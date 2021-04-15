@@ -1,2 +1,2 @@
-# patriksvestka.github.com
+# tukanos.github.com
 Patrik Svestka's pages
